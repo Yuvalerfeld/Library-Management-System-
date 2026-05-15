@@ -2,18 +2,18 @@
 
 A client-server application for managing library inventory, book lending, and multiple users.
 
-## 📚 Project Overview
+## Project Overview
 
 This project was developed to streamline library operations by providing an intuitive system for managing books, users, and borrowing activities. The application supports multiple users and enables efficient tracking of inventory and transactions.
 
-## 🚀 Technologies Used
+## Technologies Used
 
 - Java
 - JavaFX
 - SQL
 - Client-Server Architecture
 
-## ✨ Features
+## Features
 
 - User authentication and role-based access
 - Book inventory management
@@ -24,7 +24,7 @@ This project was developed to streamline library operations by providing an intu
 - Database integration using SQL
 - Interactive graphical user interface with JavaFX
 
-## 🏗️ System Architecture
+## System Architecture
 
 The system is built using a client-server model:
 
@@ -32,7 +32,7 @@ The system is built using a client-server model:
 - **Server:** Handles requests, business logic, and communication
 - **Database:** Stores books, users, and borrowing records
 
-## 👥 User Roles
+## User Roles
 
 ### Administrator
 - Add, update, and delete books
@@ -44,14 +44,14 @@ The system is built using a client-server model:
 - Borrow and return books
 - View account information
 
-## 📂 Project Structure
+## Project Structure
 
 - `client/` – JavaFX application
 - `server/` – Server-side logic
 - `database/` – SQL scripts and schema
 - `common/` – Shared classes and utilities
 
-## ▶️ How to Run
+## How to Run
 
 1. Clone the repository:
 
